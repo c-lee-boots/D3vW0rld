@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Altcoinium"
+AuthUserFile "/home/altcoini/.htpasswds/public_html/passwd"
+require valid-user

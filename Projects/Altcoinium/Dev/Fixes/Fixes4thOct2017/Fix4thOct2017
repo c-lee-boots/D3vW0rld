@@ -1,0 +1,27 @@
+Fixings:
+
+Located in /SparkleShare/DevWorld/Projects/Altcoinium/Dev/Fixes/Fix4thOct2017
+
+Issues Fixed:;
+
+****about.html****
+About Us - General Formatting issues after template-style.css was modified. Required amalgamation into master copy.
+
+Status: Fixed;
+
+****Aboutus.css****
+
+Contains the standalone CSS values applies to "about.html". Values need to be integrated into template (already done)
+
+Status: Indicative;
+
+****GetStarted.html****
+
+Contains updated GetStarted.html for amalgamation into master copy.
+
+****contact.php****
+
+Syntax fixed and tested, also to resolve draw issue on Message box for mobile site.
+
+
+

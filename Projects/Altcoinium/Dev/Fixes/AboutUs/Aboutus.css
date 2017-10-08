@@ -1,0 +1,20 @@
+}
+div.aboutu {
+  border: 1px solid black;
+  outline-style: ridge;
+  position: relative center;
+  margin: 2%;
+}
+div.transbox { 
+  margin: 4px;
+  background-color: #ffffff;
+  text-align: center;
+  border: 1px solid black;
+  opacity: 0.8;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+div.transbox p {
+  text-align: center;
+  margin: 0.5%;
+  font-weight: normal;
+  color: #000000;

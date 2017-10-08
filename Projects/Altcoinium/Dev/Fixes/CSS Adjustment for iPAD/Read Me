@@ -1,0 +1,4 @@
+This is the CSS property for iPAD view. Untested!!
+
+Expected behaviour:
+Should force iPad's to retain mobile view in Portrait mode.
